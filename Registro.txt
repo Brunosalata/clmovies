@@ -69,7 +69,7 @@ Iniciando projeto
 		- import >> Maven >> Existing Maven Projects >> pasta backend
 
 		- Package Explorer:
-			- dsmovie[boot]>src/main/java>com.brunosalata.dsmovie>DsmovieApplication.java
+			- clmovie[boot]>src/main/java>com.brunosalata.dsmovie>DsmovieApplication.java
 	
 			- pom.xml (versões e dependências)
 				<build>
